@@ -1,0 +1,11 @@
+{
+  "name": "resttest",
+  "version": "1.0.0",
+  "description": "test for rest connection to wp cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marco",
+  "license": "ISC"
+}
